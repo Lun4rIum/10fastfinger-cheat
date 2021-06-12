@@ -1,6 +1,6 @@
 # 10fastfinger-cheat
 
-/!\ YOU HAVE TO INSTALL GOOGLE CHROME : https://www.google.fr/chrome/?brand=FHFK&gclid=EAIaIQobChMInLPo16iS8QIVQrrVCh3JlQBSEAAYASAAEgLMYfD_BwE&gclsrc=aw.ds
+/!\ YOU HAVE TO INSTALL GOOGLE CHROME : https://www.google.fr/chrome/
 AND CHROME WEBDRIVER : https://chromedriver.chromium.org/downloads, PLACE IT IN YOUR DOWNLOADS AS 
                                                /Users/yoursessionname/Downloads/chromdriver       /!\
 
