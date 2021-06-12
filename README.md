@@ -1,4 +1,9 @@
 # 10fastfinger-cheat
+
+/!\ YOU HAVE TO INSTALL GOOGLE CHROME : https://www.google.fr/chrome/?brand=FHFK&gclid=EAIaIQobChMInLPo16iS8QIVQrrVCh3JlQBSEAAYASAAEgLMYfD_BwE&gclsrc=aw.ds
+AND CHROME WEBDRIVER : https://chromedriver.chromium.org/downloads /!\
+
+
 A little cheat for 10 fast fingers.com :D (only in french for the moment)
 
 For the moment, it only works with my computer because i'm doing some test, but soon, you'll be able to use it.
