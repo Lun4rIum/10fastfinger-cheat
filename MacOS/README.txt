@@ -2,4 +2,4 @@
 
 Then, write in your shell 'pip install requirement.txt' A little cheat for 10 fast fingers.com :D (only in french for the moment)
 
-Or you can change the "options.binary_location" with your chrome binary option, the "path" with your chrome webdriver path.
+You can change the "options.binary_location" with your chrome binary option, the "path" with your chrome webdriver path.
