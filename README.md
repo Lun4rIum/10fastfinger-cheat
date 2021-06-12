@@ -1,8 +1,7 @@
 # 10fastfinger-cheat
 
 /!\ YOU HAVE TO INSTALL GOOGLE CHROME : https://www.google.fr/chrome/?brand=FHFK&gclid=EAIaIQobChMInLPo16iS8QIVQrrVCh3JlQBSEAAYASAAEgLMYfD_BwE&gclsrc=aw.ds
-AND CHROME WEBDRIVER : https://chromedriver.chromium.org/downloads /!\
-
+AND CHROME WEBDRIVER : https://chromedriver.chromium.org/downloads, PLACE IT IN YOUR DOWNLOADS AS /Users/yoursessionname/Downloads/chromdriver       /!\
 
 A little cheat for 10 fast fingers.com :D (only in french for the moment)
 
