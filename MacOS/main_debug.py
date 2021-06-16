@@ -5,10 +5,14 @@ from selenium.webdriver.common.keys import Keys
 import time
 import pyperclip as pc
 import os
+import subprocess
 
 user = os.getlogin()
 
-path = "/Users/"+str(user)+"/Downloads/chromedriver/chromedriver.dmg"
+path = str(subprocess.run('pwd',capture_output=True).stdout.decode('utf-8'))[:-1] + "/chromedriver"
+
+
+
 options = webdriver.ChromeOptions()
 options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 driver = webdriver.Chrome(path, chrome_options=options)
