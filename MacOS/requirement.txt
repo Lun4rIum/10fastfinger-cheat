@@ -1,5 +1,3 @@
-#use pip install requirement.txt
-
 selenium
 BeautifulSoup4
 pyperclip
