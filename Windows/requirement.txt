@@ -1,3 +1,5 @@
 selenium
 BeautifulSoup4
 pyperclip
+lxml
+subprocess
