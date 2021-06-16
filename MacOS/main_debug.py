@@ -24,7 +24,7 @@ ls = []
 
 try:
     driver.find_element_by_id("CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll").click()
-    parser = argparse.ArgumentParser(description='[COOKIE] : Passed')
+    
     print("[COOKIE] : Passed")
 except:
     print("[COOKIE] : No Cookie...")
