@@ -8,7 +8,7 @@ import os
 
 user = os.getlogin()
 
-path = "/Users/"+str(user)+"/Downloads/chromedriver"
+path = "/Users/"+str(user)+"/Downloads/chromedriver/chromedriver.dmg"
 options = webdriver.ChromeOptions()
 options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 driver = webdriver.Chrome(path, chrome_options=options)
