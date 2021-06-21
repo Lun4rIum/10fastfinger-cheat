@@ -1,10 +1,8 @@
-/!\ YOU HAVE TO INSTALL GOOGLE CHROME : https://www.google.fr/chrome/ AND CHROME WEBDRIVER : https://chromedriver.chromium.org/downloads, 
+/!\ YOU HAVE TO INSTALL GOOGLE CHROME IF YOU DON'T HAVE IT : https://www.google.fr/chrome/ /!\
 
-PLACE IT IN YOUR DOWNLOADS AS "C:/Users/yoursessionname/Downloads/chromedriver_win32/chromedriver.exe /!\
-
-Then, write in your shell 'pip install requirement.txt' 
+Then, write in your shell 'pip install -r requirement.txt' 
 
 A little cheat for 10 fast fingers.com :D (only in french for the moment)
 
-You can change the "options.binary_location" with your chrome binary option, the "path" with your chrome webdriver path.
+You can change the "options.binary_location" with your chrome binary option.
 But i recommand you to use the normal installation and don't change the path :p
