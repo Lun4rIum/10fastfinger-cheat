@@ -9,7 +9,7 @@ import os
 user = os.getlogin()
 
 
-path = r"C:/Users/"+str(user)+"/Downloads/chromedriver_win32\chromedriver.exe"
+path = r"../Windows/chromedriver.exe"
 
 options = webdriver.ChromeOptions()
 
